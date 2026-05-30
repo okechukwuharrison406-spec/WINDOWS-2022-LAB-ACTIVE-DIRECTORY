@@ -108,5 +108,4 @@ setspn -L <DOMAIN>\<User>
 ---
 
 **Connect:**  
-[GitHub](https://github.com/HarrisonOkechukwu) | [LinkedIn](https://linkedin.com/in/Harrison-Okechukwu)  
-_Port Harcourt, Nigeria_
+[GitHub](https://github.com/HarrisonOkechukwu) | [LinkedIn](https://linkedin.com/in/Harrison-Okechukwu)
