@@ -1,13 +1,13 @@
 # 🏢 Active Directory Domain Setup Lab  
 **Platform:** Windows Server 2022  
-**Lab Author:** Harrison Okechukwu Udochukwu  
+**Lab Author:** Harrison Okechukwu
 **LinkedIn:** [linkedin.com/in/Harrison-Okechukwu](https://linkedin.com/in/Harrison-Okechukwu)
 
 ---
 
 ## Overview
 
-Configured a simulated enterprise Active Directory (AD) environment on Windows Server 2022 as part of a cybersecurity internship program. The lab focused on modern domain controller deployment, group policy configuration, user/group management, LDAP setup, and SQL Server integration for practical penetration testing and Blue Team exercises.
+Configured a simulated enterprise Active Directory (AD) environment on Windows Server 2022 as part of a cybersecurity program. The lab focused on modern domain controller deployment, group policy configuration, user/group management, LDAP setup, and SQL Server integration for practical penetration testing and Blue Team exercises.
 
 ---
 
